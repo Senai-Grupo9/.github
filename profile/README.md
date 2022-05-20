@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h2>We are from SENAI</h2>
+<span>our mission is to do an application to manage and monitoring an office, using a camera and some cognitive services with we get from Azure</span>
 <!--
 
 **Here are some ideas to get you started:**
