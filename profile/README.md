@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 <h2>We are from SENAI</h2>
-<span>our mission is to do an application to manage and monitoring an office, using a camera and some cognitive services with we get from Azure</span>
+<span>Our mission is to do an application to manage and monitoring an office, using a camera and some cognitive services with we use from Azure</span>
+
+<span> You can find our repositories here: </span>
+<h2> FrontEnd: https://github.com/Senai-Grupo9/DeployTeste </h2>
+<h2> Deploy FrontEnd: https://deploy-teste-pink.vercel.app </h2>
+<h2> BackEnd: https://github.com/Senai-Grupo9/BackendDeploy </h2>
 <!--
 
 **Here are some ideas to get you started:**
