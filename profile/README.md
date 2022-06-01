@@ -1,12 +1,15 @@
 ## Hi there 👋
 
 <h2>We are from SENAI</h2>
-<span>Our mission is to do an application to manage and monitoring an office, using a camera and some cognitive services with we use from Azure</span>
+<span>Our mission is to do an application to manage and monitoring an office, using a camera and some cognitive services that we use from Azure Portal</span>
 
 <span> You can find our repositories here: </span>
 <h2> Deploy FrontEnd: https://severino-pink.vercel.app </h2>
 <h2> FrontEnd: https://github.com/Senai-Grupo9/FrontEnd-Severino </h2>
 <h2> BackEnd: https://github.com/Senai-Grupo9/DeployBack </h2>
+
+<h1> Meet our members! </h1>
+<h2> Linktree: https://linktr.ee/s3v3r1n0 </h2>
 <!--
 
 **Here are some ideas to get you started:**
