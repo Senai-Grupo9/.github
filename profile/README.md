@@ -4,8 +4,8 @@
 <span>Our mission is to do an application to manage and monitoring an office, using a camera and some cognitive services with we use from Azure</span>
 
 <span> You can find our repositories here: </span>
+<h2> Deploy FrontEnd: https://deploy-teste-fab-senai.vercel.app </h2>
 <h2> FrontEnd: https://github.com/Senai-Grupo9/DeployTeste </h2>
-<h2> Deploy FrontEnd: https://deploy-teste-pink.vercel.app </h2>
 <h2> BackEnd: https://github.com/Senai-Grupo9/BackendDeploy </h2>
 <!--
 
