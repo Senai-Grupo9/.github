@@ -8,7 +8,7 @@
 <h2> FrontEnd: https://github.com/Senai-Grupo9/FrontEnd-Severino </h2>
 <h2> BackEnd: https://github.com/Senai-Grupo9/DeployBack </h2>
 
-<h1> Meet our members! </h1>
+<h1> Meet and connect with our members! </h1>
 <h2> Linktree: https://linktr.ee/s3v3r1n0 </h2>
 <!--
 
