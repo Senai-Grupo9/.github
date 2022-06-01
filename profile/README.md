@@ -6,7 +6,7 @@
 <span> You can find our repositories here: </span>
 <h2> Deploy FrontEnd: https://deploy-teste-fab-senai.vercel.app </h2>
 <h2> FrontEnd: https://github.com/Senai-Grupo9/FrontEnd-Severino </h2>
-<h2> BackEnd: https://github.com/Senai-Grupo9/BackendDeploy </h2>
+<h2> BackEnd: https://github.com/Senai-Grupo9/DeployBack </h2>
 <!--
 
 **Here are some ideas to get you started:**
